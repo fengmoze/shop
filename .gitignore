@@ -1,0 +1,17 @@
+build/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# 本地配置和密钥，永远不要提交
+.env
+shop.env
+
+# 编译产物
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.pdb
